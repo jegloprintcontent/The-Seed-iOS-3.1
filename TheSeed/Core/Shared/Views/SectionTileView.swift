@@ -23,7 +23,7 @@ struct SectionTileView: View {
                 .cornerRadius(10)
 
             VStack(alignment: .leading, spacing: 4) {
-                // ✅ Title
+                //  Title
                 Text(html.parse(html: article.title.rendered) ?? "")
                     .font(.system(size: 20))
                     .fontWeight(.medium)
@@ -31,7 +31,7 @@ struct SectionTileView: View {
                     .fixedSize(horizontal: false, vertical: true)
                     .foregroundColor(Color(.label))
 
-                // ✅ Date (Newly Added)
+                //  Date (Newly Added)
                 Text(parsedDate.convertDateFormat(inputDate: article.date))
                     .font(.subheadline)
                     .foregroundColor(.gray)
