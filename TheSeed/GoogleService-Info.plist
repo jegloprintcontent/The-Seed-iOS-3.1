@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>559518533485-g1podajpasnr8bdcbt59vfugscmg48u7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.559518533485-g1podajpasnr8bdcbt59vfugscmg48u7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>559518533485-r9bm0f3dtfef6veqr2mdv30lsrb7s3qv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvtDFLaIDHnZYTRHy-bFQhXYw48h3fN9E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>559518533485</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.ileewe.theseedjcli.TheSeed</string>
+	<key>PROJECT_ID</key>
+	<string>the-seed-f1b9d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-seed-f1b9d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:559518533485:ios:18ab9b0e0ce58e354bfc64</string>
+</dict>
+</plist>
