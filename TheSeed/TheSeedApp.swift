@@ -2,7 +2,7 @@
 //  TheSeedApp.swift
 //  TheSeed
 //
-//  Created by Lawrence Adeyemi on 15/10/2022.
+//  Created by Iyanuoluwa Babatunde on 7/2/2025.
 //
 
 import SwiftUI
@@ -103,7 +103,7 @@ extension AppDelegate: MessagingDelegate {
     }
 }
 
-// ✅ Push Notification Handling
+// Push Notification Handling
 extension AppDelegate: UNUserNotificationCenterDelegate {
     
     func userNotificationCenter(_ center: UNUserNotificationCenter,
